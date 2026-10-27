@@ -17,6 +17,8 @@ text_box.pack(pady=10)
 
 # Retrieving Text
 
+text_box.insert("1.0", "Enter your message")
+
 
 def show_text():
     message = text_box.get("1.0", tk.END)
