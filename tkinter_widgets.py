@@ -34,5 +34,3 @@ root.mainloop()
 # A label displaying your full name.
 
 # An entry field for entering your age.
-
-# A button labelled Submit.
